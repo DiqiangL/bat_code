@@ -1,6 +1,8 @@
 
 
 ### 百度
+[2026 百度笔试 百度9 月 3 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=b6751c8b73034fb69d32a393eb9e573a)
+
 [2026 百度笔试 百度 8 月 27 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=1d8d8093b4a1491bbe5b15e5b0d4fbee)
 
 [2026 百度笔试 百度机考算法方向 笔试题与解析 0820](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=16fbc044ed3f4165b8be33e90976a358)

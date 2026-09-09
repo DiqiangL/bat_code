@@ -83,6 +83,7 @@ COMPANY_KEYWORDS = [
     ("科大讯飞", ["科大讯飞", "非凡计划"]),
     ("shein", ["shein", "SHEIN"]),
     ("招商银行", ["招商银行", "招行"]),
+    ("招银网络", ["招银网络"]),
     ("深信服", ["深信服"]),
     ("用友", ["用友"]),
     ("顺丰", ["顺丰"]),
@@ -151,6 +152,7 @@ COMPANY_FILE = {
     "科大讯飞": "z其他笔试/other.md",
     "shein": None,
     "招商银行": None,
+    "招银网络": None,
     "深信服": "z其他笔试/other.md",
     "用友": "z其他笔试/other.md",
     "顺丰": "z其他笔试/other.md",
@@ -193,6 +195,12 @@ COMPANY_FILE = {
 
 # 所有公司（用于校验），顺序即 README 中各小节的展示顺序
 ALL_COMPANIES = [c for c, _ in COMPANY_KEYWORDS]
+
+# 两篇新文章正文未标注年份，已根据当前 2026 秋招批次人工核对。
+DATE_OVERRIDES = {
+    "64e607b8dcd64543ab0f15a86f5a7110": (2026, 9, 4),
+    "0e7b6525cfc949b5a70fcf2046868944": (2026, 9, 5),
+}
 
 
 # ======================================================================
@@ -554,6 +562,8 @@ def main():
             continue
 
         year, month, day = extract_exam_date(content, title)
+        if uuid in DATE_OVERRIDES:
+            year, month, day = DATE_OVERRIDES[uuid]
         company = classify(title)
         if year is None:
             problems.append((title, "无法确定笔试年份（正文/标题均无）"))

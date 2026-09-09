@@ -1,6 +1,8 @@
 见README.md
 
 ### 大疆
+[2026 大疆笔试 大疆9 月 3 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=e085ec06bcdd47c58168d1c54b289cb1)
+
 [2026 大疆笔试 大疆算法岗笔试题与解析 0814](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=4d80d8d715bb4bf2805f2d32f39f2dfd)
 
 [2025 大疆笔试 大疆笔试题 0817](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=21175ca592ca4d31a9485bfa767d12d9)
@@ -9,6 +11,8 @@
 
 
 ### 滴滴
+[2026 滴滴笔试 滴滴 9 月 6 日 机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=d0fb02111bee4ad4816062303b017689)
+
 [2026 滴滴笔试-滴滴8 月 30 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=8a6084a944824b8292f5fe3753b97d66)
 
 [2026 滴滴笔试 滴滴笔试题 滴滴笔试真题解析 0315](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=6563b83683174bff88bee5d1778ae510)
@@ -57,6 +61,8 @@
 
 
 ### 科大讯飞
+[2026 科大讯飞笔试 科大讯飞 9 月 6 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=1bd4d0d347f447efa3e1fdd18c86e041)
+
 [2026 科大讯飞笔试 科大讯飞机考开发岗 8 月 9 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=e06bca6a04a44c9f89b53f2136fd6ee6)
 
 [2025 科大讯飞笔试 科大讯飞秋招 科大讯飞笔试题 0927](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=56049824e7884da1910697d5f1bdb98c)
@@ -85,6 +91,8 @@
 
 
 ### 联想
+[2026 联想笔试 联想9 月 4 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=897d4812a5ad4ccfacfaf7edb8c20374)
+
 [2026 联想笔试 联想机考 8 月 7 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=22cd7d53b37f4aebb993198d0a2fb9d1)
 
 [2025 联想笔试 联想笔试题 0829](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=271b49d0b6b34b9eab2cf5c8d1a7cf9a)
@@ -95,6 +103,8 @@
 
 
 ### 蔚来
+[2026 蔚来笔试 蔚来 9 月 6 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=9d3d181468164457a294d923f5e6bd05)
+
 [2026 蔚来笔试 蔚来机考通用岗 笔试题与解析 0726](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=52d2254b64e94fb5982fac60f50ddb4e)
 
 
@@ -111,6 +121,10 @@
 
 
 ### 京东
+[2026 京东笔试 京东 9 月 5 日 算法岗机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=af743d13b1994673989f29337d026655)
+
+[2026 京东笔试 京东 9 月 5 日 开发岗机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=2e91a78e3d164c1fb3ff160350fc1e6f)
+
 [2026 京东笔试-京东8 月 29 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=65406ab16fc74808a56ba42c732aa151)
 
 [2026 京东笔试 京东机考 8 月 22 日算法方向笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=8b3c659b4e5a41cda348385619672318)
