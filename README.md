@@ -378,6 +378,10 @@
 
 
 ### 华为
+[2026 华为笔试 华为机考AI方向9 月 11 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=fa5ddc6a263848cc89c13b0024f753be)
+
+[2026 华为笔试 华为机考非AI方向9 月 11 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=b39a46d5a79d4b06ac92aa274c6ad7ad)
+
 [2026 华为笔试 华为机考非AI方向9 月 4 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=d8dadbf323344f6a95db8c028dc5c1dd)
 
 [2026 华为笔试 华为机考AI方向9 月 4 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=a452a5bc176f42988e45ae82f80291fa)
@@ -608,6 +612,8 @@
 
 
 ### 小红书
+[2026 小红书笔试 小红书9 月 10 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=df393a7d476c4cad9f454b164c65c0ef)
+
 [2026 小红书笔试 小红书 春招实习笔试真题 0325](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=163e5b8960f546cba36489473a419072)
 
 [2026 小红书笔试 小红书笔试题 小红书 春招笔试真题解析 0318](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=0a0f9cd753c2450aa8ee7346552aba00)
